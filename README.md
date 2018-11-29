@@ -2,19 +2,20 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* game host
+* how to get started
+* refresh button
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+-this game is hosted in this domain name : www.factoorlab.com
 
-To get started, open `js/app.js` and start building out the app's functionality
+-go to www.factoorlab.com, the game starts with a timer, you can try as many time as you want 
+ the rating are affected by how long it took you to match all cards
+ -
+-there is a refresh button allowing you to start from scratch.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+pull requests are accepted from anyone who have ideas to make this game better.
